@@ -1,4 +1,4 @@
 # practice-demo
 Learning git from scratch
 <br>
-author-Chetan
+author-Chetan Rawat
